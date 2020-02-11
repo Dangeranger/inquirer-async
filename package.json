@@ -1,0 +1,16 @@
+{
+  "name": "inquirer-async",
+  "version": "1.0.0",
+  "description": "Testing of the Inquirer package as an async module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "Joshua Burke",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/input": "0.0.7-alpha.0",
+    "@inquirer/select": "0.0.7-alpha.0"
+  }
+}
